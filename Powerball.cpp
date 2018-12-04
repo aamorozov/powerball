@@ -153,7 +153,6 @@ void AskPlayerForWhiteNumber(int UserWhite[])
 					again = false;
 				}
 			}
-			//IF: Number was not in range, sends user through the loop again
 			else
 			{
 				cout << "\n***This number is not within range***\n\n";
