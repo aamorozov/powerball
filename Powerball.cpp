@@ -36,7 +36,6 @@ int main()
 
 	do
 	{
-
 		decisionForWhiteNumber = SelfOrAutoPick("white");
 
 		if (decisionForWhiteNumber == 1)
